@@ -1,5 +1,5 @@
 # Joe Frank's theme
 
-A short description of your theme.
+Once upon a time, I made this theme just to see how I could make an extension for Atom, but this ended up being a favourite of mine. I hope you like it too. :)
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Screenshot](cppscreenshot.png)
